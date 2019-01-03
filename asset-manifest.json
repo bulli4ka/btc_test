@@ -1,13 +1,13 @@
 {
-  "main.css": "/btc_test/static/css/main.b01bd92d.chunk.css",
-  "main.js": "/btc_test/static/js/main.c3eeff2a.chunk.js",
-  "main.js.map": "/btc_test/static/js/main.c3eeff2a.chunk.js.map",
+  "main.css": "/btc_test/static/css/main.23012f62.chunk.css",
+  "main.js": "/btc_test/static/js/main.62905be2.chunk.js",
+  "main.js.map": "/btc_test/static/js/main.62905be2.chunk.js.map",
   "static/js/1.f739feb7.chunk.js": "/btc_test/static/js/1.f739feb7.chunk.js",
   "static/js/1.f739feb7.chunk.js.map": "/btc_test/static/js/1.f739feb7.chunk.js.map",
   "runtime~main.js": "/btc_test/static/js/runtime~main.4222d443.js",
   "runtime~main.js.map": "/btc_test/static/js/runtime~main.4222d443.js.map",
-  "static/css/main.b01bd92d.chunk.css.map": "/btc_test/static/css/main.b01bd92d.chunk.css.map",
+  "static/css/main.23012f62.chunk.css.map": "/btc_test/static/css/main.23012f62.chunk.css.map",
   "index.html": "/btc_test/index.html",
-  "precache-manifest.08def6cd565750f56fa8ae6293b96af6.js": "/btc_test/precache-manifest.08def6cd565750f56fa8ae6293b96af6.js",
+  "precache-manifest.4bdc3db52e82fc786b51e1603b547020.js": "/btc_test/precache-manifest.4bdc3db52e82fc786b51e1603b547020.js",
   "service-worker.js": "/btc_test/service-worker.js"
 }
