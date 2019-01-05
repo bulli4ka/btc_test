@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/btc_test/static/js/runtime~main.4222d443.js"
   },
   {
-    "revision": "fdfe72c1a01af6e589bb",
-    "url": "/btc_test/static/js/main.fdfe72c1.chunk.js"
+    "revision": "94dea779921ebc695206",
+    "url": "/btc_test/static/js/main.94dea779.chunk.js"
   },
   {
     "revision": "f739feb7d61c48a46bed",
     "url": "/btc_test/static/js/1.f739feb7.chunk.js"
   },
   {
-    "revision": "fdfe72c1a01af6e589bb",
-    "url": "/btc_test/static/css/main.3c2302e0.chunk.css"
+    "revision": "94dea779921ebc695206",
+    "url": "/btc_test/static/css/main.4a8a0cab.chunk.css"
   },
   {
-    "revision": "f38bb36b36707ad4016a6d68ed3af32c",
+    "revision": "8aa1070a2526d7392ff0e8b7e8e82fbf",
     "url": "/btc_test/index.html"
   }
 ];
