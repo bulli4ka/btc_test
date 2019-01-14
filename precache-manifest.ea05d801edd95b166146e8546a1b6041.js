@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/btc_test/static/media/book4.7b358764.png"
   },
   {
-    "revision": "97d3f993aa2b85542498",
-    "url": "/btc_test/static/css/main.0f692d63.chunk.css"
+    "revision": "3c29b94ffadb4d3683dc",
+    "url": "/btc_test/static/css/main.de2cf25a.chunk.css"
   },
   {
-    "revision": "75f5c2ce002bc3b6991e",
-    "url": "/btc_test/static/js/1.75f5c2ce.chunk.js"
+    "revision": "73a14a46bc0a840dfab2",
+    "url": "/btc_test/static/js/1.73a14a46.chunk.js"
   },
   {
     "revision": "4222d443f79c21cdd148",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/btc_test/static/media/book3.b74ed8e3.png"
   },
   {
-    "revision": "97d3f993aa2b85542498",
-    "url": "/btc_test/static/js/main.97d3f993.chunk.js"
+    "revision": "3c29b94ffadb4d3683dc",
+    "url": "/btc_test/static/js/main.3c29b94f.chunk.js"
   },
   {
     "revision": "0808d7c7a5d27d6a5cea6780023729d1",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/btc_test/static/media/book10.4f68ab89.png"
   },
   {
-    "revision": "ab10aaae8829ef73eea519c96eddcfae",
+    "revision": "06d6e78e8af396185b1184921a3cca24",
     "url": "/btc_test/index.html"
   }
 ];
