@@ -1,7 +1,7 @@
 {
-  "main.css": "/btc_test/static/css/main.3a8455da.chunk.css",
-  "main.js": "/btc_test/static/js/main.11e35b59.chunk.js",
-  "main.js.map": "/btc_test/static/js/main.11e35b59.chunk.js.map",
+  "main.css": "/btc_test/static/css/main.0f692d63.chunk.css",
+  "main.js": "/btc_test/static/js/main.97d3f993.chunk.js",
+  "main.js.map": "/btc_test/static/js/main.97d3f993.chunk.js.map",
   "static/js/1.75f5c2ce.chunk.js": "/btc_test/static/js/1.75f5c2ce.chunk.js",
   "static/js/1.75f5c2ce.chunk.js.map": "/btc_test/static/js/1.75f5c2ce.chunk.js.map",
   "runtime~main.js": "/btc_test/static/js/runtime~main.4222d443.js",
@@ -16,8 +16,8 @@
   "static/media/book9.png": "/btc_test/static/media/book9.0bd8faa9.png",
   "static/media/book10.png": "/btc_test/static/media/book10.4f68ab89.png",
   "static/media/book2.png": "/btc_test/static/media/book2.0d00eb19.png",
-  "static/css/main.3a8455da.chunk.css.map": "/btc_test/static/css/main.3a8455da.chunk.css.map",
+  "static/css/main.0f692d63.chunk.css.map": "/btc_test/static/css/main.0f692d63.chunk.css.map",
   "index.html": "/btc_test/index.html",
-  "precache-manifest.70227120dd5b00965826af13e77963dc.js": "/btc_test/precache-manifest.70227120dd5b00965826af13e77963dc.js",
+  "precache-manifest.b5096cca513026c7726f94d69d01fdf4.js": "/btc_test/precache-manifest.b5096cca513026c7726f94d69d01fdf4.js",
   "service-worker.js": "/btc_test/service-worker.js"
 }
